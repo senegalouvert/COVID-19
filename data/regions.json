@@ -1,44 +1,82 @@
 [
     {
-        "DAKAR":[]
+        "REGION":"DAKAR",
+        "DEPARTEMENT":[
+            {"DAKAR":["DAKAR-OUEST","DAKAR-SUD","DAKAR-CENTRE","DAKAR-NORD"],"CAS":0},
+            {"GUÉDIAWAYE":["GUEDIAWAYE"],"CAS":0},
+            {"PIKINE":["PIKINE","YEUMBEUL","KEUR-MASSAR","MBAO"],"CAS":0},
+            {"RUFISQUE":["RUFISQUE","DIAMNIADIO","SANGALKHAM"],"CAS":0}],
+        "CAS":0
     },
     {
-        "DIOURBEL":[]
+        "REGION":"DIOURBEL",
+        "DEPARTEMENT":[{"MBACKÉ":["TOUBA"],"CAS":0}],
+        "CAS":0
     },
     {
-        "FATICK": []
+        "REGION":"FATICK",
+        "DEPARTEMENT": [{"FATICK":["FATICK"],"CAS":0}],
+        "CAS":0
     },
     {
-        "KAFFRINE": []
+        "REGION":"KAFFRINE",
+        "DEPARTEMENT": {},
+        "CAS":0
     },
     {
-        "KAOLACK": []
+        "REGION":"KAOLACK",
+        "DEPARTEMENT": {},
+        "CAS":0
     },
     {
-        "KEDOUGOU": []
+        "REGION":"KEDOUGOU",
+        "DEPARTEMENT": {},
+        "CAS":0
     },
     {
-        "KOLDA": []
+        "REGION":"KOLDA",
+        "DEPARTEMENT": [{"VELINGARA":["VELINGARA"],"CAS":0}],
+        "CAS":0
     },
     {
-        "LOUGA": []
+        "REGION":"LOUGA",
+        "DEPARTEMENT": [{"LOUGA":["LOUGA"],"CAS":0}],
+        "CAS":0
     },
     {
-        "MATAM": []
+        "REGION":"MATAM",
+        "DEPARTEMENT": {},
+        "CAS":0
     },
     {
-        "SAINT-LOUIS": []
+        "REGION":"SAINT-LOUIS",
+        "DEPARTEMENT": [
+            {"SAINT-LOUIS":["SAINT-LOUIS"],"CAS":0},
+            {"DAGANA":["RICHAR-TOLL"],"CAS":0}],
+        "CAS":0
     },
     {
-        "SÉDHIOU": []
+        "REGION":"SÉDHIOU",
+        "DEPARTEMENT": {},
+        "CAS":0
     },
     {
-        "TAMBACOUNDA": []
+        "REGION":"TAMBACOUNDA",
+        "DEPARTEMENT": [{"GOUDIRY":["GOUDIRY"],"CAS":0}],
+        "CAS":0
     },
     {
-        "THIÈS": []
+        "REGION":"THIÈS",
+        "DEPARTEMENT": [
+            {"MBOUR":["MBOUR","POPENGUINE"],"CAS":0},
+            {"THIES":["THIES"],"CAS":0}],
+        "CAS":0
     },
     {
-        "ZIGUINCHOR": []
+        "REGION":"ZIGUINCHOR",
+        "DEPARTEMENT": [
+            {"ZIGUINCHOR":["ZIGUINCHOR"],"CAS":0},
+            {"OUSSOUYE":["OUSSOUYE"],"CAS":0}],
+        "CAS":0
     }
 ]
