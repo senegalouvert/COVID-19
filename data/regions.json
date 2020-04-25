@@ -24,11 +24,7 @@
         "DEPARTEMENTS":[
             {
                 "NOM":"MBACKÉ",
-                "District":["TOUBA"],
-                "CAS": 0},
-            {
-                "NOM":"MBACKE",
-                "District":["MBACKE"],
+                "District":["TOUBA","MBACKE"],
                 "CAS": 0}],
         "CAS":0
     },
@@ -114,7 +110,7 @@
                 "CAS": 0},
             {
                 "NOM":"THIES",
-                "District":["THIES"],
+                "District":["THIES","POUT"],
                 "CAS": 0},
             {
                 "NOM": "TIVAOUANE",
