@@ -39,17 +39,23 @@
     },
     {
         "REGION":"KAFFRINE",
-        "DEPARTEMENTS": {},
+        "DEPARTEMENTS": [],
         "CAS":0
     },
     {
         "REGION":"KAOLACK",
-        "DEPARTEMENTS": {},
+        "DEPARTEMENTS": [
+            {
+                "NOM": "NIORO DU RIP",
+                "District": [
+                    "NIORO DU RIP"
+                ],
+                "CAS": 0}],
         "CAS":0
     },
     {
         "REGION":"KEDOUGOU",
-        "DEPARTEMENTS": {},
+        "DEPARTEMENTS": [],
         "CAS":0
     },
     {
@@ -72,7 +78,7 @@
     },
     {
         "REGION":"MATAM",
-        "DEPARTEMENTS": {},
+        "DEPARTEMENTS": [],
         "CAS":0
     },
     {
