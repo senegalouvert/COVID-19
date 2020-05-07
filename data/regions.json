@@ -23,9 +23,14 @@
         "REGION":"DIOURBEL",
         "DEPARTEMENTS":[
             {
-                "NOM":"MBACKÉ",
-                "District":["TOUBA","MBACKE"],
-                "CAS": 0}],
+                "NOM":"DIOURBEL",
+                "District":["DIOURBEL"],
+                "CAS": 0},
+            {
+              "NOM": "MBACKÉ",
+              "District": ["TOUBA", "MBACKE"],
+              "CAS": 0
+            }],
         "CAS":0
     },
     {
