@@ -38,7 +38,7 @@
         "DEPARTEMENTS": [
             {
                 "NOM":"FATICK",
-                "District":["FATICK"],
+                "District":["FATICK","DIAKHAO"],
                 "CAS": 0}],
         "CAS":0
     },
