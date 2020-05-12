@@ -4,15 +4,15 @@
         "DEPARTEMENTS":[
             {   
                 "NOM":"DAKAR",
-                "District":["DAKAR-OUEST","DAKAR-SUD","DAKAR-CENTRE","DAKAR-NORD"],
+                "District":["DAKAR OUEST","DAKAR SUD","DAKAR CENTRE","DAKAR NORD"],
                 "CAS": 0},
             {   
                 "NOM":"GUÉDIAWAYE",
-                "District":["GUEDIAWAYE"],
+                "District":["GUÉDIAWAYE"],
                 "CAS":0},
             {   
                 "NOM":"PIKINE",
-                "District":["PIKINE","YEUMBEUL","KEUR-MASSAR","MBAO"],
+                "District":["PIKINE","YEUMBEUL","KEUR MASSAR","MBAO"],
                 "CAS": 0},
             {   
                 "NOM":"RUFISQUE",
@@ -28,7 +28,7 @@
                 "CAS": 0},
             {
               "NOM": "MBACKÉ",
-              "District": ["TOUBA", "MBACKE"],
+              "District": ["TOUBA", "MBACKÉ"],
               "CAS": 0
             }],
         "CAS":0
@@ -65,7 +65,7 @@
         "CAS":0
     },
     {
-        "REGION":"KEDOUGOU",
+        "REGION":"KÉDOUGOU",
         "DEPARTEMENTS": [],
         "CAS":0
     },
@@ -73,8 +73,8 @@
         "REGION":"KOLDA",
         "DEPARTEMENTS": [
             {
-                "NOM":"VELINGARA",
-                "District":["VELINGARA"],
+                "NOM":"VÉLINGARA",
+                "District":["VÉLINGARA"],
                 "CAS": 0}],
         "CAS":0
     },
@@ -93,15 +93,15 @@
         "CAS":0
     },
     {
-        "REGION":"SAINT-LOUIS",
+        "REGION":"SAINT LOUIS",
         "DEPARTEMENTS": [
             {
-                "NOM":"SAINT-LOUIS",
-                "District":["SAINT-LOUIS"],
+                "NOM":"SAINT LOUIS",
+                "District":["SAINT LOUIS"],
                 "CAS": 0},
             {
                 "NOM":"DAGANA",
-                "District":["RICHARD-TOLL"],
+                "District":["RICHARD TOLL"],
                 "CAS": 0}],
         "CAS":0
     },
@@ -111,7 +111,7 @@
             {
                 "NOM": "SÉDHIOU",
                 "District": [
-                    "SEDHIOU"
+                    "SÉDHIOU"
                 ],
                 "CAS": 0
             }],
@@ -136,8 +136,8 @@
                 "District":["MBOUR","POPENGUINE"],
                 "CAS": 0},
             {
-                "NOM":"THIES",
-                "District":["THIES","POUT"],
+                "NOM":"THIÈS",
+                "District":["THIÈS","POUT"],
                 "CAS": 0},
             {
                 "NOM": "TIVAOUANE",
