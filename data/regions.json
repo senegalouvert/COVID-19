@@ -84,7 +84,12 @@
             {
                 "NOM":"LOUGA",
                 "District":["LOUGA","SAKAL"],
-                "CAS": 0}],
+                "CAS": 0},
+            {
+                "NOM": "LINGUÈRE",
+                "District": ["LINGUÈRE"],
+                "CAS": 0
+            }],
         "CAS":0
     },
     {
