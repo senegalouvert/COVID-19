@@ -66,7 +66,13 @@
     },
     {
         "REGION":"KÉDOUGOU",
-        "DEPARTEMENTS": [],
+        "DEPARTEMENTS": [{
+                "NOM": "KÉDOUGOU",
+                "District": [
+                    "KÉDOUGOU"
+                ],
+                "CAS": 0
+            }],
         "CAS":0
     },
     {
@@ -138,7 +144,7 @@
         "DEPARTEMENTS": [
             {
                 "NOM":"MBOUR",
-                "District":["MBOUR","POPENGUINE"],
+                "District":["MBOUR","POPENGUINE","THIADIAYE"],
                 "CAS": 0},
             {
                 "NOM":"THIÈS",
@@ -147,7 +153,7 @@
             {
                 "NOM": "TIVAOUANE",
                 "District": [
-                    "TIVAOUANE"
+                    "TIVAOUANE","MÉKHÉ"
                 ],
                 "CAS": 0
             }],
