@@ -5,19 +5,24 @@
             {   
                 "NOM":"DAKAR",
                 "District":["DAKAR OUEST","DAKAR SUD","DAKAR CENTRE","DAKAR NORD"],
-                "CAS": 0},
+                "CAS": 0,
+                "MALADE": 0},
             {   
                 "NOM":"GUÉDIAWAYE",
                 "District":["GUÉDIAWAYE"],
-                "CAS":0},
+                "CAS":0,
+                "MALADE": 0},
             {   
                 "NOM":"PIKINE",
                 "District":["PIKINE","YEUMBEUL","KEUR MASSAR","MBAO"],
-                "CAS": 0},
+                "CAS": 0,
+                "MALADE": 0},
             {   
                 "NOM":"RUFISQUE",
-                "District":["RUFISQUE","DIAMNIADIO","SANGALKAM"]}],
-        "CAS":0
+                "District":["RUFISQUE","DIAMNIADIO","SANGALKAM"],
+                "CAS": 0,
+                "MALADE": 0}],
+                "CAS":0
     },
     {
         "REGION":"DIOURBEL",
@@ -25,11 +30,13 @@
             {
                 "NOM":"DIOURBEL",
                 "District":["DIOURBEL"],
-                "CAS": 0},
+                "CAS": 0,
+                "MALADE": 0},
             {
-              "NOM": "MBACKÉ",
-              "District": ["TOUBA", "MBACKÉ"],
-              "CAS": 0
+                "NOM": "MBACKÉ",
+                "District": ["TOUBA", "MBACKÉ"],
+                "CAS": 0,
+                "MALADE": 0
             }],
         "CAS":0
     },
@@ -39,7 +46,8 @@
             {
                 "NOM":"FATICK",
                 "District":["FATICK","DIAKHAO"],
-                "CAS": 0}],
+                "CAS": 0,
+                "MALADE": 0}],
         "CAS":0
     },
     {
@@ -55,12 +63,14 @@
                 "District": [
                     "NIORO DU RIP"
                 ],
-                "CAS": 0},{
+                "CAS": 0,
+                "MALADE": 0},{
                 "NOM": "KAOLACK",
                 "District": [
                     "KAOLACK"
                 ],
-                "CAS": 0
+                "CAS": 0,
+                "MALADE": 0
             }],
         "CAS":0
     },
@@ -71,7 +81,8 @@
                 "District": [
                     "KÉDOUGOU"
                 ],
-                "CAS": 0
+                "CAS": 0,
+                "MALADE": 0
             }],
         "CAS":0
     },
@@ -81,7 +92,8 @@
             {
                 "NOM":"VÉLINGARA",
                 "District":["VÉLINGARA"],
-                "CAS": 0}],
+                "CAS": 0,
+                "MALADE": 0}],
         "CAS":0
     },
     {
@@ -90,11 +102,13 @@
             {
                 "NOM":"LOUGA",
                 "District":["LOUGA","SAKAL"],
-                "CAS": 0},
+                "CAS": 0,
+                "MALADE": 0},
             {
                 "NOM": "LINGUÈRE",
                 "District": ["LINGUÈRE"],
-                "CAS": 0
+                "CAS": 0,
+                "MALADE": 0
             }],
         "CAS":0
     },
@@ -109,11 +123,13 @@
             {
                 "NOM":"SAINT LOUIS",
                 "District":["SAINT LOUIS"],
-                "CAS": 0},
+                "CAS": 0,
+                "MALADE": 0},
             {
                 "NOM":"DAGANA",
                 "District":["RICHARD TOLL"],
-                "CAS": 0}],
+                "CAS": 0,
+                "MALADE": 0}],
         "CAS":0
     },
     {
@@ -124,7 +140,8 @@
                 "District": [
                     "SÉDHIOU"
                 ],
-                "CAS": 0
+                "CAS": 0,
+                "MALADE": 0
             }],
         "CAS":0
     },
@@ -133,10 +150,12 @@
         "DEPARTEMENTS": [{
             "NOM":"GOUDIRY",
             "District":["GOUDIRY"],
-            "CAS": 0},{
+            "CAS": 0,
+            "MALADE": 0},{
             "NOM":"TAMBACOUNDA",
             "District":["TAMBACOUNDA"],
-            "CAS": 0}],
+            "CAS": 0,
+            "MALADE": 0}],
         "CAS":0
     },
     {
@@ -145,17 +164,20 @@
             {
                 "NOM":"MBOUR",
                 "District":["MBOUR","POPENGUINE","THIADIAYE"],
-                "CAS": 0},
+                "CAS": 0,
+                "MALADE": 0},
             {
                 "NOM":"THIÈS",
                 "District":["THIÈS","POUT"],
-                "CAS": 0},
+                "CAS": 0,
+                "MALADE": 0},
             {
                 "NOM": "TIVAOUANE",
                 "District": [
                     "TIVAOUANE","MÉKHÉ"
                 ],
-                "CAS": 0
+                "CAS": 0,
+                "MALADE": 0
             }],
         "CAS":0
     },
@@ -165,15 +187,18 @@
             {
                 "NOM":"ZIGUINCHOR",
                 "District":["ZIGUINCHOR"],
-                "CAS": 0},
+                "CAS": 0,
+                "MALADE": 0},
             {
                 "NOM":"OUSSOUYE",
                 "District":["OUSSOUYE"],
-                "CAS": 0},
+                "CAS": 0,
+                "MALADE": 0},
             {
                 "NOM": "BIGNONA",
                 "District": ["DIOULOULOU"],
-                "CAS": 0
+                "CAS": 0,
+                "MALADE": 0
             }],
         "CAS":0
     }
