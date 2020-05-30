@@ -52,7 +52,11 @@
     },
     {
         "REGION":"KAFFRINE",
-        "DEPARTEMENTS": [],
+        "DEPARTEMENTS": [{
+                "NOM": "KOUNGHEUL",
+                "District": ["KOUNGUEUL"],
+                "CAS": 0,
+                "MALADE": 0}],
         "CAS":0
     },
     {
