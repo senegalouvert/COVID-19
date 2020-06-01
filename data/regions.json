@@ -118,7 +118,12 @@
     },
     {
         "REGION":"MATAM",
-        "DEPARTEMENTS": [],
+        "DEPARTEMENTS": [{
+                "NOM": "RANÉROU",
+                "District": ["RANÉROU"],
+                "CAS": 0,
+                "MALADE": 0
+            }],
         "CAS":0
     },
     {
@@ -167,7 +172,7 @@
         "DEPARTEMENTS": [
             {
                 "NOM":"MBOUR",
-                "District":["MBOUR","POPENGUINE","THIADIAYE"],
+                "District":["MBOUR","POPENGUINE","THIADIAYE","JOAL"],
                 "CAS": 0,
                 "MALADE": 0},
             {
