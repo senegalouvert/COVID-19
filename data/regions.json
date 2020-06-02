@@ -105,7 +105,7 @@
         "DEPARTEMENTS": [
             {
                 "NOM":"LOUGA",
-                "District":["LOUGA","SAKAL"],
+                "District":["LOUGA","SAKAL","COKI"],
                 "CAS": 0,
                 "MALADE": 0},
             {
@@ -205,7 +205,7 @@
                 "MALADE": 0},
             {
                 "NOM": "BIGNONA",
-                "District": ["DIOULOULOU"],
+                "District": ["DIOULOULOU","BIGNONA"],
                 "CAS": 0,
                 "MALADE": 0
             }],
