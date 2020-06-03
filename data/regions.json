@@ -56,6 +56,10 @@
                 "NOM": "KOUNGHEUL",
                 "District": ["KOUNGUEUL"],
                 "CAS": 0,
+                "MALADE": 0},{
+                "NOM": "BIRKELANE",
+                "District": ["BIRKELANE"],
+                "CAS": 0,
                 "MALADE": 0}],
         "CAS":0
     },
@@ -111,6 +115,13 @@
             {
                 "NOM": "LINGUÈRE",
                 "District": ["LINGUÈRE"],
+                "CAS": 0,
+                "MALADE": 0},
+            {
+                "NOM": "KÉBÉMER",
+                "District": [
+                    "DAROU MOUSTY"
+                ],
                 "CAS": 0,
                 "MALADE": 0
             }],
