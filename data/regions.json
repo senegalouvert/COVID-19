@@ -45,7 +45,7 @@
         "DEPARTEMENTS": [
             {
                 "NOM":"FATICK",
-                "District":["FATICK","DIAKHAO"],
+                "District":["FATICK","DIAKHAO","DIOFFIOR"],
                 "CAS": 0,
                 "MALADE": 0}],
         "CAS":0
@@ -132,6 +132,13 @@
         "DEPARTEMENTS": [{
                 "NOM": "RANÉROU",
                 "District": ["RANÉROU"],
+                "CAS": 0,
+                "MALADE": 0
+            },{
+                "NOM": "MATAM",
+                "District": [
+                    "MATAM","THILOGNE"
+                ],
                 "CAS": 0,
                 "MALADE": 0
             }],
