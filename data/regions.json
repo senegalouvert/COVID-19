@@ -47,7 +47,13 @@
                 "NOM":"FATICK",
                 "District":["FATICK","DIAKHAO","DIOFFIOR"],
                 "CAS": 0,
-                "MALADE": 0}],
+                "MALADE": 0},
+            {
+              "NOM": "GOSSAS",
+              "District": ["GOSSAS"],
+              "CAS": 0,
+              "MALADE": 0
+            }],
         "CAS":0
     },
     {
