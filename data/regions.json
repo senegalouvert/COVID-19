@@ -29,7 +29,7 @@
         "DEPARTEMENTS":[
             {
                 "NOM":"DIOURBEL",
-                "District":["DIOURBEL"],
+                "District":["DIOURBEL","BAMBEY"],
                 "CAS": 0,
                 "MALADE": 0},
             {
