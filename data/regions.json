@@ -53,6 +53,12 @@
               "District": ["GOSSAS"],
               "CAS": 0,
               "MALADE": 0
+            },
+            {
+                "NOM": "FOUNDIOUGNE",
+                "District": ["SOKONE"],
+                "CAS": 0,
+                "MALADE": 0
             }],
         "CAS":0
     },
