@@ -148,9 +148,17 @@
                 "MALADE": 0
             },{
                 "NOM": "MATAM",
-                "District": [
-                    "MATAM","THILOGNE"
-                ],
+                "District": ["MATAM","THILOGNE"],
+                "CAS": 0,
+                "MALADE": 0
+            },{
+                "NOM": "MATAM",
+                "District": ["MATAM","THILOGNE"],
+                "CAS": 0,
+                "MALADE": 0
+            },{
+                "NOM": "KANEL",
+                "District": ["KANEL"],
                 "CAS": 0,
                 "MALADE": 0
             }],
