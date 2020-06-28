@@ -72,7 +72,12 @@
                 "NOM": "BIRKELANE",
                 "District": ["BIRKELANE"],
                 "CAS": 0,
-                "MALADE": 0}],
+                "MALADE": 0},{
+                "NOM": "KAFFRINE",
+                "District": ["KAFFRINE"],
+                "CAS": 0,
+                "MALADE": 0
+            }],
         "CAS":0
     },
     {
