@@ -115,10 +115,16 @@
         "REGION":"KOLDA",
         "DEPARTEMENTS": [
             {
-                "NOM":"VÉLINGARA",
-                "District":["VÉLINGARA"],
-                "CAS": 0,
-                "MALADE": 0}],
+                    "NOM":"VÉLINGARA",
+                    "District":["VÉLINGARA"],
+                    "CAS": 0,
+                    "MALADE": 0},
+                {
+                    "NOM": "KOLDA",
+                    "District": ["KOLDA"],
+                    "CAS": 0,
+                    "MALADE": 0
+                }],
         "CAS":0
     },
     {
