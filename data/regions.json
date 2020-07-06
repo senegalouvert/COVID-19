@@ -85,18 +85,19 @@
         "DEPARTEMENTS": [
             {
                 "NOM": "NIORO DU RIP",
-                "District": [
-                    "NIORO DU RIP"
-                ],
+                "District": ["NIORO DU RIP"],
                 "CAS": 0,
                 "MALADE": 0},{
                 "NOM": "KAOLACK",
-                "District": [
-                    "KAOLACK"
-                ],
+                "District": ["KAOLACK"],
                 "CAS": 0,
-                "MALADE": 0
-            }],
+                "MALADE": 0},{
+                    "NOM": "GUINGUINÉO",
+                    "District": ["GUINGUINÉO"],
+                    "CAS": 0,
+                    "MALADE": 0
+                }
+        ],
         "CAS":0
     },
     {
