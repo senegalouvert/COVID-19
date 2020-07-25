@@ -45,7 +45,7 @@
         "DEPARTEMENTS": [
             {
                 "NOM":"FATICK",
-                "District":["FATICK","DIAKHAO","DIOFFIOR"],
+                "District":["FATICK","DIAKHAO","DIOFFIOR","NIAKHAR"],
                 "CAS": 0,
                 "MALADE": 0},
             {
