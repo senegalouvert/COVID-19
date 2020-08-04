@@ -56,7 +56,7 @@
             },
             {
                 "NOM": "FOUNDIOUGNE",
-                "District": ["SOKONE","PASSY"],
+                "District": ["SOKONE","PASSY","FOUNDIOUGNE"],
                 "CAS": 0,
                 "MALADE": 0
             }],
