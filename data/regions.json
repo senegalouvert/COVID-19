@@ -192,7 +192,13 @@
                 "NOM":"DAGANA",
                 "District":["RICHARD TOLL"],
                 "CAS": 0,
-                "MALADE": 0}],
+                "MALADE": 0},
+            {
+                "NOM": "PODOR",
+                "District": ["PÉTÉ"],
+                "CAS": 0,
+                "MALADE": 0
+            }],
         "CAS":0
     },
     {
