@@ -195,7 +195,7 @@
                 "MALADE": 0},
             {
                 "NOM": "PODOR",
-                "District": ["PÉTÉ"],
+                "District": ["PÉTÉ","PODOR"],
                 "CAS": 0,
                 "MALADE": 0
             }],
